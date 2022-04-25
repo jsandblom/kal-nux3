@@ -1,42 +1,14 @@
-# Nuxt 3 Minimal Starter
+# Kal
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+## Version history
 
-## Setup
-
-Make sure to install the dependencies:
-
-```bash
-# yarn
-yarn install
-
-# npm
-npm install
-
-# pnpm
-pnpm install --shamefully-hoist
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment) for more information.
+## Todos
+- komponenter för att 
+  - mata in data med automatisk ifyllning
+  - visa data inklusive återstod
+    - per dag
+    - per vecka
+    - per löpande 7-dagarsperiod
+    - per löpande månad
+  - förbindelse till databasen
+  - förbindelse till livsmedelsverket och ev annat
